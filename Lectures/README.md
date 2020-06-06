@@ -33,7 +33,7 @@
 <li><a href="#course32">Social Psychology</a></li> 
 <li><a href="#course33">Infant and Early Childhood Cognition</a></li>
 <li><a href="#course34">Pattern Recognition for Machine Vision</a></li>  
-<li><a href="#course32">Social Psychology</a></li>  
+<li><a href="#course35">Special Topics: Genetics, Neurobiology, and Pathophysiology of Psychiatric Disorders</a></li>  
   
 </ul>
 <p>&nbsp;</p>
@@ -2212,6 +2212,26 @@
 </tbody>
 </table>
 </br>
-
-
-
+<h2 id="course35">Special Topics: Genetics, Neurobiology, and Pathophysiology of Psychiatric Disorders</h2>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>General introduction (<a href="2/MIT9_914f08_Lec01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>DISC1 (<a href="2/MIT9_914f08_Lec02.pdf">PDF - 1.2MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Literature discussion: neurogenesis and depression (<a href="2/MIT9_914f08_lec03.pdf">PDF 1</a>) (<a href="2/MIT9_914f08_lec04.pdf">PDF 2</a>)&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Literature discussion: the dopamine pathway and DARPP32 (<a href="2/MIT9_914f08_lec05.pdf">PDF - 1.0MB</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
