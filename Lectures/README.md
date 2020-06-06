@@ -1,5 +1,5 @@
 <ul>
-<li><a href="#course1">Introduction to Bioengineering</a></li>
+<li><a href="#course1">Introduction to Psychology</a></li>
 <li><a href="#course2">Introduction to Biological Engineering Design</a></li>
 <li><a href="#course3">Chemicals in the Environment: Toxicology and Public Health</a></li>
 <li><a href="#course4">Systems Microbiology</a></li>
@@ -28,5 +28,8 @@
 
 </ul>
 <p>&nbsp;</p>
-<h2 id="course1">Introduction to Bioengineering</h2>
+<h2 id="course1">Introduction to Psychology</h2>
+
+
+
 
