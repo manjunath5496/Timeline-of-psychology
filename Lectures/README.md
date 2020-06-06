@@ -10,7 +10,7 @@
 <li><a href="#course9">Brain Structure and Its Origins</a></li>
 <li><a href="#course10">Systems Neuroscience Lab</a></li>
 <li><a href="#course11">Developmental Neurobiology</a></li>
-<li><a href="#course12">Fields, Forces and Flows in Biological Systems</a></li>
+<li><a href="#course12">Animal Behavior</a></li>
 <li><a href="#course13">Materials for Biomedical Applications</a></li>
 <li><a href="#course14">Molecular Structure of Biological Materials</a></li>
 <li><a href="#course15">Quantitative Physiology: Organ Transport Systems</a></li>
@@ -514,4 +514,118 @@
 </tbody>
 </table>
 </br>
+<h2 id="course12">Animal Behavior</h2>
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="MIT9_20F13_Lec1.pdf">Lecture 1 Notes: Introduction: class requirements, various approaches to animal behavior and its study (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT9_20F13_Lec2.pdf">Lecture 2 Notes: Introduction to ethology; three&ndash;spined stickleback fish (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT9_20F13_Lec3.pdf">Lecture 3 Notes: Introduction to ethology (cont.); field studies of birds; Niko Tinbergen's questions (PDF - 1.6MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT9_20F13_Lec4.pdf">Lecture 4 Notes: Ethology (cont.); Konrad Lorenz' Jackdaws (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT9_20F13_Lec5.pdf">Lecture 5 Notes: Ethology of geese; fixed action patterns and the CNS (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT9_20F13_Lec6.pdf">Lecture 6 Notes: Fixed action patterns and the CNS (cont.) (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT9_20F13_Lec7.pdf">Lecture 7 Notes: Input and output sides of innate behavior; motivation (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT9_20F13_Lec8.pdf">Lecture 8 Notes: Innate behavior and motivation (cont.); Lorenz on fundamentals of ethology: The "fixed action pattern" (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="MIT9_20F13_Lec9.pdf">Lecture 9 Notes: Lorenz on fundamentals of ethology (PDF)</a></p>
+<p><a href="MIT9_20F13_Lec10.pdf">Lecture 10 Notes: Lorenz on fundamentals of ethology (PDF)</a></p>
+<p><a href="MIT9_20F13_Lec11.pdf">Lecture 11 Notes: Lorenz on fundamentals of ethology (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="MIT9_20F13_Lec12.pdf">Lecture 12 Notes: Evolution; development &amp; plasticity of behavior (PDF)</a></p>
+<p><a href="MIT9_20F13_Lec13.pdf">Lecture 13 Notes: Evolution; development &amp; plasticity of behavior (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="MIT9_20F13_Lec14.pdf">Lecture 14 Notes: Communication; Meerkats of the Kalahari Desert (PDF - 1.1MB)</a></p>
+<p><a href="MIT9_20F13_Lec15.pdf">Lecture 15 Notes: Communication; Meerkats of the Kalahari Desert (PDF - 1.1MB)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT9_20F13_Lec16.pdf">Lecture 16 Notes: Foraging; anti-predation behavior (PDF - 2.2MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT9_20F13_Lec17.pdf">Lecture 17 Notes: Anti-predation behavior (PDF - 1.2MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Midterm Review&nbsp;</td>
+</tr>
+<tr class="row">
+<td><a href="MIT9_20F13_Lec18.pdf">Lecture 18 Notes: Mating &amp; reproduction (PDF - 1.4MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT9_20F13_Lec19.pdf">Lecture 19 Notes: Introduction to sociobiology (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="MIT9_20F13_Lec20.pdf">Lecture 20 Notes: Sociobiology subject matter (PDF)</a></p>
+<p><a href="MIT9_20F13_L20_Wls_pth_anly.pdf">Lecture 20 Supplement: Wilson path analysis (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT9_20F13_Lec21.pdf">Lecture 21 Notes: Genetic influences on social behavior (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Video: Domestic cat</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT9_20F13_Lec23.pdf">Lecture 23 Notes: Domestic cat; scientific method in sociobiology (PDF - 1.4MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT9_20F13_Lec24.pdf">Lecture 24 Notes: Discoveries of sociobiology (PDF - 1.1MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="MIT9_20F13_Lec25.pdf">Lecture 25 Notes: Discoveries of sociobiology (cont.) (PDF)</a></p>
+<p><a href="MIT9_20F13_Lec25_Wilson_notes.pdf">Lecture 25 Supplement: E. O. Wilson's&nbsp;<em>Sociobiology</em>&nbsp;(PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td><a href="MIT9_20F13_Lec26.pdf">Lecture 26 Notes: Critique of cultural determinism (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT9_20F13_Lec27.pdf">Lecture 27 Notes: Sociobiology and culture; Practical issues and sociobiology (PDF - 1.1MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT9_20F13_Lec28.pdf">Lecture 28 Notes: "The triumph of sociobiology"; Konrad Lorenz on learning (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT9_20F13_Lec29.pdf">Lecture 29 Notes: Konrad Lorenz on learning (cont.) (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT9_20F13_Lec30.pdf">Lecture 30 Notes: Konrad Lorenz on learning (cont.); Video: The Great Apes (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+
+
 
