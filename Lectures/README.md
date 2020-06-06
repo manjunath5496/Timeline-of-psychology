@@ -20,7 +20,7 @@
 <li><a href="#course19">Statistical Learning Theory and Applications</a></li>
 <li><a href="#course20">Systems Biology</a></li>
 <li><a href="#course21">Language Acquisition </a></li>
-<li><a href="#course22">Design of Medical Devices and Implants</a></li>
+<li><a href="#course22">The Lexicon and Its Features</a></li>
 <li><a href="#course23">Biomedical Information Technology</a></li>
 <li><a href="#course24">Molecular Principles of Biomaterials</a></li>
 <li><a href="#course25">Foundations of Algorithms and Computational Techniques in Systems Biology</a></li>
@@ -1233,3 +1233,99 @@
 <p>Problem set 2: Sentence tree structures across languages (<a href="1/problemset2.pdf">PDF</a>)<br />Problem set 2 answers (<a href="1/problemset2answers.pdf">PDF</a>)</p>
 
 </br>
+<h2 id="course22">The Lexicon and Its Features</h2>
+
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">SUBTOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Course overview (<a href="1/lec1ks_intro.pdf">PDF</a>)</td>
+<td>
+<p>a. Distinctive features; phonological evidence and evidence from production, acoustics and perception; articulator-free features and articular-bound features</p>
+<p>b. Basics of acoustics of speech production: acoustic sources from airflow, filtering of sources by the vocal tract</p>
+<p>c. Some basic anatomy: breathing, lungs, larynx, oral tract, nasal cavities</p>
+<p>d. Basics of hearing; hearing for speech</p>
+<p>e. Air flow and its control in speech production</p>
+<p>f. Introduction to quantal theory, enhancement</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Features for vowels and sonorant consonants</p>
+<p>Lecture 2 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/lec2ks.pdf">PDF - 1.3 MB</a>)</p>
+<p>Lecture 3 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/lec3ks1.pdf">PDF 1</a>) (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/lec3ks2.pdf">PDF 2</a>) (<a href="1/lec3ks3.pdf">PDF 3</a>)</p>
+</td>
+<td>
+<p>a. Vowel systems, relation between acoustics and articulation; vowel nasalization, glottal source for vowels</p>
+<p>b. Waveform displays, spectrum displays, spectrograms</p>
+<p>c. Sonorant consonants; glides, liquids, nasals</p>
+</td>
+</tr>
+<tr class="row">
+<td>Why features</td>
+<td>
+<p>a. Learning phonology with distinctive features (<a href="1/lec4ds_features.pdf">PDF - 1.3 MB</a>)</p>
+<p>b. Inferring features</p>
+<p>c. Natural classes (<a href="1/lec4ds_natural.pdf">PDF - 1.0 MB</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Feature values in lexical entries (<a href="1/lec5ds_lexical.pdf">PDF</a>)</td>
+<td>
+<p>a. Experimental evidence for under specification</p>
+<p>b. Evidence for under specification in lexical access vs. phonological evidence</p>
+</td>
+</tr>
+<tr class="row">
+<td>Features vs. contrasts</td>
+<td>Phonological relevance of non-contrastive features: release, syllabicity, timing</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Features vs. contrasts (cont.)</p>
+<p>EF notes (<a href="1/lec7ef_contrast.pdf">PDF</a>)</p>
+<p>DS notes (<a href="1/lec7ds_contrast.pdf">PDF</a>)</p>
+</td>
+<td>
+<p>a. Syllable structure</p>
+<p>b. Contrast as an alternative theory of features</p>
+</td>
+</tr>
+<tr class="row">
+<td>Lexical neighborhood, frequency, predictability, effects on production and perception</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Theories of speech perception</td>
+<td>
+<p>a. Objects of speech perception</p>
+<p>b. Models of speech perception - relation to lexical access, the role of 'intermediate' representations, Nearey's typology of intermediate representations</p>
+</td>
+</tr>
+<tr class="row">
+<td>Context effects</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Normalization</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Feature-cue integration and assimilation (<a href="1/lec12dg_percep.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Student presentations</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
