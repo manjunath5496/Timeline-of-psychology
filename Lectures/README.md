@@ -35,7 +35,7 @@
 <li><a href="#course34">Pattern Recognition for Machine Vision</a></li>  
 <li><a href="#course35">Special Topics: Genetics, Neurobiology, and Pathophysiology of Psychiatric Disorders</a></li>  
  <li><a href="#course36">Special Topics: Social Animals</a></li>
-<li><a href="#course34">Pattern Recognition for Machine Vision</a></li>  
+<li><a href="#course37">Experimental Methods of Adjustable Tetrode Array Neurophysiology</a></li>  
 <li><a href="#course35">Special Topics: Genetics, Neurobiology, and Pathophysiology of Psychiatric Disorders</a></li>  
 </ul>
 <p>&nbsp;</p>
@@ -2288,5 +2288,9 @@
 </table>
 </br>
 
+<h2 id="course37">Experimental Methods of Adjustable Tetrode Array Neurophysiology</h2>
 
-
+<ul>
+<li class="maintabletemplate">&nbsp;Lecture 1: Introduction (<a href="2/9_96INTRO.pdf">PDF - 1.8MB</a>)</li>
+</ul>
+</br>
