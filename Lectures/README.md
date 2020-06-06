@@ -6,7 +6,7 @@
 <li><a href="#course5">Statistics for Brain and Cognitive Science</a></li>
 <li><a href="#course6">Human Memory and Learning</a></li>
 <li><a href="#course7">Neurology, Neuropsychology, and Neurobiology of Aging</a></li>
-<li><a href="#course8">Computation for Biological Engineers</a></li>
+<li><a href="#course8">Neurotechnology in Action</a></li>
 <li><a href="#course9">Mechanisms of Drug Actions</a></li>
 <li><a href="#course10">Molecular, Cellular, and Tissue Biomechanics</a></li>
 <li><a href="#course11">Analysis of Biomolecular and Cellular Systems</a></li>
@@ -235,4 +235,34 @@
 <p>Source Memory in Older Adults: An Encoding or Retrieval Problem (<a href="9110_glis_1983f6.pdf">PDF</a>)</p>
 
 </br>
+<h2 id="course8">Neurotechnology in Action</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="MIT9_123F14_Lec1.pdf">Course Introduction; Overview of Neurotechnology (PDF - 3.1MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT9_123F14_Lec6.pdf">Optogenetics (PDF - 1.9MB)</a></td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="MIT9_123F14_Lec7.pdf">Virus Engineering (PDF - 5.9MB)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT9_123F14_Lab9.pdf">Structural MRI (PDF - 1.9MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT9_123F14_Lab11.pdf">High Throughput Neuroscience Yanik's Lab (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+
 
