@@ -26,7 +26,7 @@
 <li><a href="#course25">Language Acquisition I</a></li>
 
 <li><a href="#course26">Natural Language and the Computer Representation of Knowledge</a></li>
-<li><a href="#course22">The Lexicon and Its Features</a></li>
+<li><a href="#course27">Laboratory in Visual Cognition</a></li>
 <li><a href="#course23">Language Processing</a></li>
 <li><a href="#course24">Lab in Psycholinguistics</a></li>
 <li><a href="#course25">Language Acquisition I</a></li>
@@ -1573,7 +1573,65 @@
 </tbody>
 </table>
 </br>
+<h2 id="course27">Laboratory in Visual Cognition</h2>
 
 
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">LECTURES</th>
+<th scope="col">LECTURE&nbsp;FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>
+<p>Variables and controls</p>
+<p>Single factor design</p>
+</td>
+<td>
+<p>(<a href="1/MIT9_63F09_lec01.pdf">PDF</a>)</p>
+<p>(<a href="1/MIT9_63F09_lec02.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Signal detection theory</p>
+<p>Statistical test: t-test</p>
+</td>
+<td>
+<p>(<a href="1/MIT9_63F09_lec03.pdf">PDF</a>)</p>
+<p>(<a href="1/MIT9_63F09_lec04.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Factor design I</td>
+<td>(<a href="1/MIT9_63F09_lec05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Factorial design</td>
+<td>(<a href="1/MIT9_63F09_lec07.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Face perception</p>
+<p>Change blindness</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>ANOVA</td>
+<td>(<a href="1/MIT9_63F09_lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Paradigms of perception</td>
+<td>(<a href="1/MIT9_63F09_lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Divided attention</td>
+<td>(<a href="1/MIT9_63F09_lec12.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
 
