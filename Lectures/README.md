@@ -30,7 +30,7 @@
 <li><a href="#course29">Cognitive Processes</a></li>
 <li><a href="#course30">Computational Cognitive Science</a></li>
 <li><a href="#course31">Affect: Neurobiological, Psychological and Sociocultural Counterparts of "Feelings"</a></li>  
-  
+<li><a href="#course32">Social Psychology</a></li> 
   
   
 </ul>
@@ -1985,4 +1985,85 @@
 </tbody>
 </table>
 </br>
+
+<h2 id="course32">Social Psychology</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">LECTURE&nbsp;NOTES&nbsp;TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES&nbsp;AND&nbsp;HANDOUTS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="2"><strong>Phase 1. Didactic Orientation</strong>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Welcome</td>
+<td>
+<p><a href="1/MIT9_70S13_Lect1.pdf">Lecture notes 1 (PDF)</a></p>
+<p><a href="1/MIT9_70S13_inf_fm_bcmk_L1.pdf">Preliminary information form and benchmark questionnaire (PDF)</a></p>
+<p><a href="1/MIT9_70S13_Wrkg_grp_L1.pdf">Working groups (PDF)</a></p>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/MIT9_70S13_Hman_Apcts_L1.pdf">Human systems: Aspects and levels of organization and development (PDF)</a></p>
+<p><a href="1/MIT9_70S13_timesheet_L1.pdf">Timesheet (PDF)</a></p>
+<p><a href="1/MIT9_70S13_std_rst_fm_L1.pdf">Study group roster (PDF)</a></p>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/MIT9_70S13_frmtve_evltn_L1.pdf">Draft formative and summative evaluation form (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>The Science of Social Psychology and Vice-versa I</td>
+<td><a href="1/MIT9_70S13_Lect2.pdf">Lecture notes 2 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>The Science of Social Psychology and Vice-versa II</td>
+<td><a href="1/MIT9_70S13_Lect3.pdf">Lecture notes 3 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Phase 2. Collaborative Inquiry</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Persons-In-Contexts I</td>
+<td>
+<p><a href="1/MIT9_70S13_Lect4.pdf">Lecture notes 4 (PDF)</a></p>
+<p><a href="1/MIT9_70S13_dvlpt_schms_L4.pdf">Human systems: A selection of development schemes (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>Persons-In-Contexts II</td>
+<td><a href="1/MIT9_70S13_Lect5.pdf">Lecture notes 5 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Meaning and Power I</td>
+<td><a href="1/MIT9_70S13_Lect6.pdf">Lecture notes 6 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Meaning and Power II</td>
+<td><a href="1/MIT9_70S13_Lect7.pdf">Lecture notes 7 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Us and Them I</td>
+<td><a href="1/MIT9_70S13_Lect8.pdf">Lecture notes 8 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Us and Them II</td>
+<td><a href="1/MIT9_70S13_Lect9.pdf">Lecture notes 9 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Who is/are "We" I</td>
+<td><a href="1/MIT9_70S13_Lect10.pdf">Lecture notes 10 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Who is/are "We" II</td>
+<td><a href="1/MIT9_70S13_Lect11.pdf">Lecture notes 11 (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+
+
+
+
 
