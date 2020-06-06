@@ -34,7 +34,9 @@
 <li><a href="#course33">Infant and Early Childhood Cognition</a></li>
 <li><a href="#course34">Pattern Recognition for Machine Vision</a></li>  
 <li><a href="#course35">Special Topics: Genetics, Neurobiology, and Pathophysiology of Psychiatric Disorders</a></li>  
-  
+ <li><a href="#course36">Special Topics: Social Animals</a></li>
+<li><a href="#course34">Pattern Recognition for Machine Vision</a></li>  
+<li><a href="#course35">Special Topics: Genetics, Neurobiology, and Pathophysiology of Psychiatric Disorders</a></li>  
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Introduction to Psychology</h2>
@@ -2235,3 +2237,56 @@
 </tbody>
 </table>
 </br>
+<h2 id="course36">Special Topics: Social Animals</h2>
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Altruism</td>
+<td>(<a href="2/MIT9_916F09_lec02.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Morality and norms</td>
+<td>(<a href="2/MIT9_916F09_lec03.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Empathy</td>
+<td>(<a href="2/MIT9_916F09_lec04.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Social perception</td>
+<td>(<a href="2/MIT9_916F09_lec05.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Theory of mind</td>
+<td>(<a href="2/MIT9_916F09_lec06.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Communication</td>
+<td>(<a href="2/MIT9_916F09_lec07.pdf">PDF - 1.5MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Ingroups and outgroups</td>
+<td>(<a href="2/MIT9_916F09_lec08.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Aggression and dominance</td>
+<td>(<a href="2/MIT9_916F09_lec09.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Mating</td>
+<td>(<a href="2/MIT9_916F09_lec10.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
