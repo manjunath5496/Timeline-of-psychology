@@ -23,7 +23,7 @@
 <li><a href="#course22">The Lexicon and Its Features</a></li>
 <li><a href="#course23">Language Processing</a></li>
 <li><a href="#course24">Lab in Psycholinguistics</a></li>
-<li><a href="#course25">Foundations of Algorithms and Computational Techniques in Systems Biology</a></li>
+<li><a href="#course25">Language Acquisition I</a></li>
 
 
 </ul>
@@ -1432,3 +1432,16 @@
 <p><a href="1/MIT9_59jS17_lec15.pdf">Lecture 15: Language and Thought: Number (PDF - 3.6MB)</a></p>
 <p><a href="1/MIT9_59jS17_lec16.pdf">Lecture 16: Culture and Language: Recursion (PDF)</a></p>
 </br>
+<h2 id="course25">Language Acquisition I</h2>
+
+<p>Development of the Morphosyntax of Verbal Inflections (<a href="1/lecture_notes_.pdf">PDF</a>)<br />The OI Stage in English (<a href="1/lecture_OI.pdf">PDF</a>)</p>
+
+</br>
+
+
+
+
+
+
+
+
