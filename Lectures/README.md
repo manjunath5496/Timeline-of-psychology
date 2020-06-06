@@ -13,7 +13,7 @@
 <li><a href="#course12">Animal Behavior</a></li>
 <li><a href="#course13">Neural Coding and Perception of Sound</a></li>
 <li><a href="#course14">Introduction to Computational Neuroscience</a></li>
-<li><a href="#course15">Quantitative Physiology: Organ Transport Systems</a></li>
+<li><a href="#course15">Neural Plasticity in Learning and Development</a></li>
 <li><a href="#course16">Biological Engineering Design</a></li>
 <li><a href="#course17">Foundations of Computational and Systems Biology</a></li>
 <li><a href="#course18">Cell-Matrix Mechanics</a></li>
@@ -807,5 +807,10 @@
 
 </br>
 
-
-
+<h2 id="course15">Neural Plasticity in Learning and Development</h2>
+<p>Lecture 1: Introduction (<a href="1/lecture_1_Notes.pdf">PDF</a>)</p>
+<p>Lecture 2: Behavior and Plasticity (<a href="1/lecture_2_notes.pdf">PDF</a>)</p>
+<p>Lecture 3: Synaptic Transmission (<a href="1/lecture_3_Notes.pdf">PDF</a>)</p>
+<p>Lecture 4: Potentiation of Synaptic Transmission (<a href="1/lecture_4_Notes.pdf">PDF</a>)</p>
+<p>Lecture 5: Expression of Plasticity (<a href="1/lecture_5_Notes.pdf">PDF</a>)</p>
+</br>
