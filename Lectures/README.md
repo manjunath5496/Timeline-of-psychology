@@ -27,7 +27,7 @@
 
 <li><a href="#course26">Natural Language and the Computer Representation of Knowledge</a></li>
 <li><a href="#course27">Laboratory in Visual Cognition</a></li>
-<li><a href="#course23">Language Processing</a></li>
+<li><a href="#course28">Introduction to Neural Networks</a></li>
 <li><a href="#course24">Lab in Psycholinguistics</a></li>
 <li><a href="#course25">Language Acquisition I</a></li>
 </ul>
@@ -1634,4 +1634,93 @@
 </tbody>
 </table>
 </br>
+<h2 id="course28">Introduction to Neural Networks</h2>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>From Spikes to Rates (<a href="1/lec1_appendix_e.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Perceptrons: Simple and Multilayer</td>
+</tr>
+<tr class="row">
+<td>Perceptrons as Models of Vision</td>
+</tr>
+<tr class="alt-row">
+<td>Linear Networks</td>
+</tr>
+<tr class="row">
+<td>Retina</td>
+</tr>
+<tr class="alt-row">
+<td>Lateral Inhibition and Feature Selectivity (<a href="1/lec6_selectivity.pdf">PDF 1</a>) (<a href="1/lec6_decisions.pdf">PDF 2</a>) (<a href="1/lec6_integrator.pdf">PDF 3</a>)</td>
+</tr>
+<tr class="row">
+<td>Objectives and Optimization</td>
+</tr>
+<tr class="alt-row">
+<td>Hybrid Analog-Digital Computation<br /><br />Ring Network</td>
+</tr>
+<tr class="row">
+<td>Constraint Satisfaction<br /><br />Stereopsis</td>
+</tr>
+<tr class="alt-row">
+<td>Bidirectional Perception</td>
+</tr>
+<tr class="row">
+<td>Signal Reconstruction</td>
+</tr>
+<tr class="alt-row">
+<td>Hamiltonian Dynamics (<a href="1/lec12_hamilton.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Antisymmetric Networks (<a href="1/lec13_antisym.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Excitatory-Inhibitory Networks (<a href="1/lec14_excinh.pdf">PDF</a>)<br /><br />Learning</td>
+</tr>
+<tr class="row">
+<td>Associative Memory</td>
+</tr>
+<tr class="alt-row">
+<td>Models of Delay Activity<br /><br />Integrators</td>
+</tr>
+<tr class="row">
+<td>Multistability<br /><br />Clustering</td>
+</tr>
+<tr class="alt-row">
+<td>VQ (<a href="1/lec18_vq.pdf">PDF</a>)<br /><br />PCA (<a href="1/lec18_pca.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>More PCA<br /><br />Delta Rule (<a href="1/lec19_delta.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Conditioning (<a href="1/lec20_pavlov.pdf">PDF</a>)<br /><br />Backpropagation (<a href="1/lec20_backprop.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>More Backpropagation (<a href="1/lec21_backprop2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Stochastic Gradient Descent</td>
+</tr>
+<tr class="row">
+<td>Reinforcement Learning</td>
+</tr>
+<tr class="alt-row">
+<td>More Reinforcement Learning</td>
+</tr>
+<tr class="row">
+<td>Final Review</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
 
