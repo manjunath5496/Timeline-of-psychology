@@ -4,7 +4,7 @@
 <li><a href="#course3">Sensory Systems</a></li>
 <li><a href="#course4">Brain Mechanisms for Hearing and Speech</a></li>
 <li><a href="#course5">Statistics for Brain and Cognitive Science</a></li>
-<li><a href="#course6">Thermodynamics of Biomolecular Systems</a></li>
+<li><a href="#course6">Human Memory and Learning</a></li>
 <li><a href="#course7">Biological Engineering Programming</a></li>
 <li><a href="#course8">Computation for Biological Engineers</a></li>
 <li><a href="#course9">Mechanisms of Drug Actions</a></li>
@@ -221,3 +221,12 @@
 </table>
 
 </br>
+<h2 id="course6">Human Memory and Learning</h2>
+
+<p>Lecture 1: What is Memory? (<a href="lecnote1.pdf">PDF</a>)</p>
+<p>Lecture 3: Neuroimaging and Cognitive Control (<a href="lecnote3.pdf">PDF</a>)</p>
+<p>Lecture 5: Episodic and PrimarycMemory (<a href="lecnote5.pdf">PDF</a>)</p>
+<p>Lecture 9: Nondeclarative Memory (<a href="lecnote9.pdf">PDF</a>)</p>
+
+</br>
+
