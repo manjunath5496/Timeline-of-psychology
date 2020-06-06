@@ -2,7 +2,7 @@
 <li><a href="#course1">Introduction to Psychology</a></li>
 <li><a href="#course2">Neural Basis of Learning and Memory</a></li>
 <li><a href="#course3">Sensory Systems</a></li>
-<li><a href="#course4">Systems Microbiology</a></li>
+<li><a href="#course4">Brain Mechanisms for Hearing and Speech</a></li>
 <li><a href="#course5">Laboratory Fundamentals in Biological Engineering</a></li>
 <li><a href="#course6">Thermodynamics of Biomolecular Systems</a></li>
 <li><a href="#course7">Biological Engineering Programming</a></li>
@@ -108,6 +108,32 @@
 </tbody>
 </table>
 </br>
+<h2 id="course4">Brain Mechanisms for Hearing and Speech</h2>
 
+<table class="tablewidth50" style="width: 237px;" summary="See table caption for summary.">
+<thead>
+<tr>
+<th id="tbl664id0_1" style="width: 221px;" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td style="width: 221px;" headers="tbl664id0_1">Dorsal Cochlear Nucleus&nbsp;<span class="nobr">(<a href="1_dcn.pdf">PDF - 1.6 MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td style="width: 221px;" headers="tbl664id0_1">Quantitative Methods&nbsp;<span class="nobr">(<a href="4_quantitative.pdf">PDF</a>)</span></td>
+</tr>
+<tr class="row">
+<td style="width: 221px;" headers="tbl664id0_1">Thalamus and Cortex</td>
+</tr>
+<tr class="alt-row">
+<td style="width: 221px;" headers="tbl664id0_1">Neuroimaging&nbsp;<span class="nobr">(<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="7_melcher_handot.pdf">PDF</a>)</span></td>
+</tr>
+<tr class="row">
+<td style="width: 221px;" headers="tbl664id0_1">Speech Motor Control&nbsp;<span class="nobr">(<a href="6_mot_con_sp_per.pdf">PDF - 2.6 MB</a>)</span></td>
+</tr>
+</tbody>
+</table>
+<br>
 
 
