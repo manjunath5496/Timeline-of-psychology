@@ -29,7 +29,7 @@
 <li><a href="#course27">Laboratory in Visual Cognition</a></li>
 <li><a href="#course28">Introduction to Neural Networks</a></li>
 <li><a href="#course29">Cognitive Processes</a></li>
-<li><a href="#course25">Language Acquisition I</a></li>
+<li><a href="#course30">Computational Cognitive Science</a></li>
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Introduction to Psychology</h2>
@@ -1806,3 +1806,94 @@
 </tbody>
 </table>
 </br>
+<h2 id="course30">Computational Cognitive Science</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th id="tbl474id0_1" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="tbl474id0_1">Introduction (<a href="1/sept_9_2004.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl474id0_1">Foundations of Inductive Learning (<a href="1/sept_14_2004.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl474id0_1">Knowledge Representation: Spaces, Trees, Features (<a href="1/knowledge_sep16.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl474id0_1">Knowledge Representation: Language and Logic 1 (<a href="1/sept_21_2004_fin.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl474id0_1">Knowledge Representation: Language and Logic 2 (<a href="1/sept_23_2004_fin.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl474id0_1">Knowledge Representation: Great Debates 1 (<a href="1/sept_28_2004_fin.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl474id0_1">Knowledge Representation: Great Debates 2 (<a href="1/sept_30_2004_fin.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl474id0_1">Basic Bayesian Inference (<a href="1/oct_5_2004_final.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl474id0_1">Graphical Models and Bayes Nets (<a href="1/oct_7_2004_final.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl474id0_1">Simple Bayesian Learning 1 (<a href="1/oct_12_2004_fin.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl474id0_1">Simple Bayesian Learning 2 (<a href="1/oct_14_2004_fin.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl474id0_1">Probabilistic Models for Concept Learning and Categorization 1 (<a href="1/oct_19_2004_fin.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl474id0_1">Probabilistic Models for Concept Learning and Categorization 2 (<a href="1/oct_21_2004_fin.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl474id0_1">Unsupervised and Semi-supervised Learning (<a href="1/oct_26_2004_fin.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl474id0_1">Non-parametric Classification: Exemplar Models and Neural Networks 1&nbsp;<span class="nobr">(<a href="1/oct_28_2004_fin.pdf">PDF - 1.4 MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl474id0_1">Non-parametric Classification: Exemplar Models and Neural Networks 2 (<a href="1/nov_2_2004_final.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl474id0_1">Controlling Complexity and Occam's Razor 1 (<a href="1/nov_4_2004_final.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl474id0_1">Controlling Complexity and Occam's Razor 2 (<a href="1/nov_9_2004_final.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl474id0_1">Intuitive Biology and the Role of Theories (<a href="1/nov_16_2004_fin.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl474id0_1">Learning Domain Structures 1 (<a href="1/nov18.pdf">PDF - 1.3 MB</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl474id0_1">Learning Domain Structures 2 (<a href="1/nov_23_2004_fin.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl474id0_1">Causal Learning (<a href="1/nov_30_2004_fin.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl474id0_1">Causal Theories 1 (<a href="1/dec_2_2004_final.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl474id0_1">Causal Theories 2 (<a href="1/dec_7_2004_final.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl474id0_1">Project Presentations</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
+
