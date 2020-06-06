@@ -3,7 +3,7 @@
 <li><a href="#course2">Neural Basis of Learning and Memory</a></li>
 <li><a href="#course3">Sensory Systems</a></li>
 <li><a href="#course4">Brain Mechanisms for Hearing and Speech</a></li>
-<li><a href="#course5">Laboratory Fundamentals in Biological Engineering</a></li>
+<li><a href="#course5">Statistics for Brain and Cognitive Science</a></li>
 <li><a href="#course6">Thermodynamics of Biomolecular Systems</a></li>
 <li><a href="#course7">Biological Engineering Programming</a></li>
 <li><a href="#course8">Computation for Biological Engineers</a></li>
@@ -135,5 +135,89 @@
 </tbody>
 </table>
 <br>
+<h2 id="course5">Statistics for Brain and Cognitive Science</h2>
+<table class="tablewidth100" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">LECTURE NOTES</th>
+<th scope="col">SUPPLEMENTAL MATERIALS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>
+<p><a href="MIT9_07F16_lec1.pdf"><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." />Conditional Probability, Bayes' Rule and Independence (PDF)</a></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT9_07F16_lec2.pdf">Discrete Probability Models (PDF)</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td><a href="MIT9_07F16_lec3.pdf">Continuous Probability Models I &amp; II (PDF - 2.1MB)</a></td>
+<td>
+<p><a href="MIT9_07F16_lec3_FigAdendm.pdf">Figures for lecture 3: Probability Models Applied to Data (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="MIT9_07F16_lec4.pdf">Joint Distributions and Independent Random Variables (PDF - 1.7MB)</a></p>
+</td>
+<td>
+<p><a href="MIT9_07F16_lec4_Figures1.pdf">Figures for Lecture 4: Multivariate Gaussian Distribution, Part 1 (PDF)</a></p>
+<p><a href="MIT9_07F16_lec4_Figures2.pdf">Figures for Lecture 4: Multivariate Gaussian Distribution, Part 2 (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td><a href="MIT9_07F16_lec5.pdf">Conditional Distributions and Functions of Jointly Distributed Random Variables I &amp; II&nbsp;<span class="nobr">(PDF - 1.7MB)</span></a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="MIT9_07F16_lec6.pdf">Moment Generating Functions I &amp; II (PDF - 2.1MB)</a></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td><a href="MIT9_07F16_lec7.pdf">The Law of Large Numbers and the Central Limit Theorem (PDF)</a></td>
+<td><a href="MIT9_07F16_lec7_addendum.pdf">Lecture 7 Addendum: The Law of Large Numbers and the Central Limit Theorem, (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="MIT9_07F16_lec8.pdf">Method-of-Moments Estimation (PDF - 1.7MB)</a></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td><a href="MIT9_07F16_lec9.pdf">Likelihood Theory I &amp; II (PDF - 1.5MB)</a></td>
+<td><a href="MIT9_07F16_lec9_Adendm.pdf">Lecture 9 Addendum: The Observed Fisher Information and Fisher Information for the Binomial Model (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT9_07F16_lec10.1.pdf">Bayesian Methods (PDF)</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td><a href="MIT9_07F16_lec10.2.pdf">Corrigienda (PDF)</a></td>
+<td><a href="MIT9_07F16_lec10_Figures.pdf">Figures for lecture 10: Bayesian Analyses, Beta Probability Models (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT9_07F16_lec11.pdf">Bootstrap and Monte Carlo Methods (PDF - 1.4MB)</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td><a href="MIT9_07F16_lec12.pdf">Hypothesis Testing I &amp; II (PDF - 2.3MB)</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT9_07F16_lec13.pdf">Simple Regression Model I, II &amp; III (PDF - 1.4MB)</a></td>
+<td><a href="MIT9_07F16_lec13_Adendm.pdf">Lecture 13 Addendum: The Meaning of Regression (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT9_07F16_lec14.pdf">Analysis of Variance (PDF - 1.2MB)</a></td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
 
-
+</br>
