@@ -24,12 +24,15 @@
 <li><a href="#course23">Language Processing</a></li>
 <li><a href="#course24">Lab in Psycholinguistics</a></li>
 <li><a href="#course25">Language Acquisition I</a></li>
-
 <li><a href="#course26">Natural Language and the Computer Representation of Knowledge</a></li>
 <li><a href="#course27">Laboratory in Visual Cognition</a></li>
 <li><a href="#course28">Introduction to Neural Networks</a></li>
 <li><a href="#course29">Cognitive Processes</a></li>
 <li><a href="#course30">Computational Cognitive Science</a></li>
+<li><a href="#course31">Affect: Neurobiological, Psychological and Sociocultural Counterparts of "Feelings"</a></li>  
+  
+  
+  
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Introduction to Psychology</h2>
@@ -1893,7 +1896,93 @@
 </tbody>
 </table>
 </br>
-
-
-
+<h2 id="course31">Affect: Neurobiological, Psychological and Sociocultural Counterparts of "Feelings"</h2>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">LECTURE&nbsp;NOTES&nbsp;TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES&nbsp;AND&nbsp;SUPPORTING&nbsp;FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction and Overview</td>
+<td>
+<p><a href="1/MIT9_68S13_Lect1.pdf">Lecture notes 1 (PDF)</a></p>
+<p><a href="https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/syllabus">Syllabus</a></p>
+<p><a href="1/MIT9_68S13_std_rst_fm_L1.pdf">Study group roster (PDF)</a></p>
+<p><a href="1/MIT9_68S13_Wrkg_grp_L1.pdf">Working groups (PDF)</a></p>
+<p><a href="1/MIT9_68S13_dvlpt_schms_L1.pdf">Human systems: Aspects and levels of organization and development (PDF)</a></p>
+<p><a href="1/MIT9_68S13_inf_fm_bcmk_L1.pdf">Preliminary information form and benchmark questionnaire (PDF)</a></p>
+<p><a href="1/MIT9_68S13_timesheet_L1.pdf">Timesheet (PDF)</a></p>
+<p><a href="1/MIT9_68S13_affct-effct_L1.pdf">Affect / effect (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Human Systems</td>
+<td><a href="1/MIT9_68S13_Lect2.pdf">Lecture notes 2 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>MFA Field Trip</td>
+<td>
+<p><a href="1/MIT9_68S13_Lect3.pdf">Lecture notes 3 (PDF)</a></p>
+<p><a href="1/MIT9_68S13_Tmscls_L3.pdf">Timescales (PDF)</a></p>
+<p><a href="1/MIT9_68S13_MFA_gde_tml_L3.pdf">MFA field trip guide and timeline (PDF)</a></p>
+<p><a href="1/MIT9_68S13_MFA_rtn_fm_L3.pdf">MFA field trip reaction form (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Quality in Arts, Technology and Life</td>
+<td><a href="1/MIT9_68S13_Lect4.pdf">Lecture notes 4 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><em>Problematique du changement</em>&nbsp;I</td>
+<td><a href="1/MIT9_68S13_Lect5.pdf">Lecture notes 5 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>What is Quality in (my MIT) Education?</td>
+<td><a href="1/MIT9_68S13_Lect6.pdf">Lecture notes 6 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Wrapping Up Phase One</td>
+<td><a href="1/MIT9_68S13_Lect7.pdf">Lecture notes 7 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>The Neuropsychology of Affect</td>
+<td><a href="1/MIT9_68S13_Lect8.pdf">Lecture notes 8 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Neurosurgery: The Science of Violence and Vice-Versa</td>
+<td>
+<p><a href="1/MIT9_68S13_Lect9.pdf">Lecture notes 9 (PDF)</a></p>
+<p><a href="1/MIT9_68S13_Ner_hand_L9.pdf">Neurobiology (PDF)</a></p>
+<p><a href="1/MIT9_68S13_Kll_Cs_Crnlg_L9.pdf">Kille case chronology (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Field Trip: A Walk Around the Block</td>
+<td>
+<p><a href="1/MIT9_68S13_Lect10.pdf">Lecture notes 10 (PDF)</a></p>
+<p><a href="1/MIT9_68S13_Wk_Ad_Blck_L10.pdf">Walk around the block (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>Fathering the Unthinkable</td>
+<td><a href="1/MIT9_68S13_Lect11.pdf">Lecture notes 11 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><em>Problematique du changement</em>&nbsp;II</td>
+<td><a href="1/MIT9_68S13_Lect12.pdf">Lecture notes 12 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Review</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Final Presentations and Closure Discussion</td>
+<td><a href="1/MIT9_68S13_Lect14.pdf">Lecture notes 14 (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
 
