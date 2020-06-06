@@ -16,7 +16,7 @@
 <li><a href="#course15">Neural Plasticity in Learning and Development</a></li>
 <li><a href="#course16">Sensation And Perception</a></li>
 <li><a href="#course17">Parkinson's Disease Workshop</a></li>
-<li><a href="#course18">Cell-Matrix Mechanics</a></li>
+<li><a href="#course18">Scene Understanding Symposium</a></li>
 <li><a href="#course19">Analysis of Biological Networks</a></li>
 <li><a href="#course20">Biomaterials-Tissue Interactions</a></li>
 <li><a href="#course21">Molecular and Cellular Pathophysiology </a></li>
@@ -906,5 +906,57 @@
 </tbody>
 </table>
 </br>
+
+<h2 id="course18">Scene Understanding Symposium</h2>
+
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Opening Remarks</td>
+</tr>
+<tr class="alt-row">
+<td>From Zero to Gist in 200 msec: The Time Course of Scene Recognition (<a href="1/900talkoliva.pdf">PDF - 1.3 MB</a>)&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Feedforward Theories of Visual Cortex Predict Human Performance in Rapid Image Categorization (<a href="1/920talkserre.pdf">PDF - 4.4 MB</a>)&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Latency, Duration and Codes for Objects in Inferior Temporal Cortex (<a href="1/945talkreiman.pdf">PDF - 1.9 MB</a>)&nbsp;</td>
+</tr>
+<tr class="row">
+<td>From Feedforward Vision to Natural Vision: The Impact of Free Viewing, Task, and Clutter on Monkey Inferior Temporal Object Representations (<a href="1/1025tlkdcarl.pdf">PDF - 1.6 MB</a>)&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Invariant Visual Representations of Natural Images by Single Neurons in the Human Brain</td>
+</tr>
+<tr class="row">
+<td>Perception of Objects in Natural Scenes and the Role of Attention (<a href="1/1110tlkevnstrsmn.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Natural Scene Categorization: From Humans to Computers (<a href="1/1300tlkfeifei.pdf">PDF - 5.3 MB</a>)&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Contextual Associations in the Brain</td>
+</tr>
+<tr class="alt-row">
+<td>Using the Forest to See the Trees: A Computational Model Relating Features, Objects and Scenes (<a href="1/1350tlktorralba.pdf">PDF - 1.2 MB</a>)&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Detecting and Remembering Pictures With and Without Visual Noise</td>
+</tr>
+<tr class="alt-row">
+<td>Scene Perception after Those First Few Hundred Milliseconds (<a href="1/1445tlkwolfe.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
 
 
