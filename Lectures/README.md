@@ -21,7 +21,7 @@
 <li><a href="#course20">Systems Biology</a></li>
 <li><a href="#course21">Language Acquisition </a></li>
 <li><a href="#course22">The Lexicon and Its Features</a></li>
-<li><a href="#course23">Biomedical Information Technology</a></li>
+<li><a href="#course23">Language Processing</a></li>
 <li><a href="#course24">Molecular Principles of Biomaterials</a></li>
 <li><a href="#course25">Foundations of Algorithms and Computational Techniques in Systems Biology</a></li>
 
@@ -1326,6 +1326,91 @@
 </tbody>
 </table>
 </br>
+<h2 id="course23">Language Processing</h2>
 
 
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr class="alt-row">
+<th id="tbl300id0_1" scope="col">TOPICS</th>
+<th id="tbl300id0_2" scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="tbl300id0_1">
+<p>Course Overview</p>
+<p>Experimental methods: self-paced reading, eye-tracking, event-related potentials, on-line lexical decision, cross-modal priming, brain scanning</p>
+<p>Modularity in Sentence Comprehension</p>
+<p>Lexical and structural theories of ambiguity resolution in sentence comprehension</p>
+<p>The effects of plausibility, context and lexical frequency in on-line processing</p>
+</td>
+<td headers="tbl300id0_2">
+<p>(<a href="1/0913_sent_compr.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl300id0_1">
+<p>Resources and Sentence Complexity</p>
+<p>The Complexity of Unambiguous Sentences</p>
+<p>The Dependency Locality Theory</p>
+</td>
+<td headers="tbl300id0_2">
+<p>(<a href="1/0920_res_sen_com.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl300id0_1">
+<p>Working Memory and Sentence Comprehension</p>
+<p>Guest Lecturer: Evelina Fedorenko</p>
+</td>
+<td headers="tbl300id0_2">
+<p>(<a href="1/0927_ev_f.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl300id0_1">
+<p>Resources and Ambiguity Resolution</p>
+<p>The Serial / Parallel Question</p>
+</td>
+<td headers="tbl300id0_2">
+<p>(<a href="1/1004_ambig_res.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl300id0_1">
+<p>Experience / Frequency and Ambiguity Resolution</p>
+</td>
+<td headers="tbl300id0_2">
+<p>(<a href="1/1018_tpdn_bottup.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl300id0_1">
+<p>Symbolic Computational Approaches to Language Parsing</p>
+<p>Parsing Strategies</p>
+<p>Shift-reduce Parsing</p>
+</td>
+<td headers="tbl300id0_2">
+<p>(<a href="1/1025_sem_prag.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl300id0_1">
+<p>Referential and Contextual Issues in Sentence Comprehension</p>
+</td>
+<td headers="tbl300id0_2">
+<p>(<a href="1/1101_sent_parsng.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl300id0_1">
+<p>Event-related Potentials (ERPs) and Other Brain-imaging Methods Investigating Sentence Comprehension</p>
+</td>
+<td headers="tbl300id0_2">
+<p>(<a href="1/1108_brain_imagi.pdf">PDF</a>)</p>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
