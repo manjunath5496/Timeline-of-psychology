@@ -38,7 +38,7 @@
 <li><a href="#course37">Experimental Methods of Adjustable Tetrode Array Neurophysiology</a></li>  
 <li><a href="#course38">Neuropharmacology</a></li>  
 <li><a href="#course39">Language and Mind</a></li>   
- 
+ <li><a href="#course40">Statistics and Visualization for Data Analysis and Inference</a></li> 
  
  
 </ul>
@@ -2326,4 +2326,31 @@
 
 <p>&nbsp;Why Study Language?&nbsp;(<a href="2/why_study_language.pdf">PDF</a>)<br />The Human Brain: Brain Areas (<a href="2/lecture_note_1.pdf">PDF</a>)<br />The Structure of Language (<a href="2/lecture_note_3.pdf">PDF</a>)<br />Relationship Between Language and Thought Beyond Cross-linguistic Differences (<a href="2/lecture_note_4.pdf">PDF</a>)</p>
 </br>
+
+<h2 id="course40">Statistics and Visualization for Data Analysis and Inference</h2>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Visualization (<a href="2/lec1_visulzatn.pdf">PDF&nbsp;‑&nbsp;2.2MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Resampling (<a href="2/lec2_resampling.pdf">PDF&nbsp;‑&nbsp;1.1MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Distributions (<a href="2/lec3_distrbtns.pdf">PDF&nbsp;‑&nbsp;2.2MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Linear Model (<a href="2/lec4_linarmodel.pdf">PDF&nbsp;‑&nbsp;3.5MB</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
 
