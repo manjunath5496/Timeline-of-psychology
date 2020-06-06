@@ -31,5 +31,22 @@
 <h2 id="course1">Introduction to Psychology</h2>
 
 
+<ul>
+<li><a href="MIT9_00SCF11_lec01.pdf">Lecture Slides (PDF)</a></li>
+<li><a href="MIT9_00SCF11_read_kr1.pdf">Study outline for K&amp;R Chapter 1 (PDF)</a></li>
+</ul>
+
+</br>
+<ul class="arrow">
+<li>2010:&nbsp;<a href="MIT9_00SCF11_exam1_2010.pdf">Practice Exam 1 Questions (PDF)</a>;&nbsp;<a href="MIT9_00SCF11_exam1_2010sol.pdf">Practice Exam 1 Solutions (PDF)</a></li>
+<li>2009:&nbsp;<a href="MIT9_00SCF11_exam1_2009.pdf">Practice Exam 1 Questions (PDF)</a>;&nbsp;<a href="MIT9_00SCF11_exam1_2009sol.pdf">Practice Exam 1 Solutions (PDF)</a></li>
+</ul>
+<ul class="arrow">
+<li><a href="MIT9_00SCF11_exam1.pdf">Exam 1 Questions (PDF)</a></li>
+<li><a href="MIT9_00SCF11_exam1_sol.pdf">Exam 1 Solutions (PDF)</a></li>
+</ul>
+</br>
+
+
 
 
