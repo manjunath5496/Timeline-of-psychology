@@ -1,6 +1,6 @@
 <ul>
 <li><a href="#course1">Introduction to Psychology</a></li>
-<li><a href="#course2">Introduction to Biological Engineering Design</a></li>
+<li><a href="#course2">Neural Basis of Learning and Memory</a></li>
 <li><a href="#course3">Chemicals in the Environment: Toxicology and Public Health</a></li>
 <li><a href="#course4">Systems Microbiology</a></li>
 <li><a href="#course5">Laboratory Fundamentals in Biological Engineering</a></li>
@@ -47,6 +47,13 @@
 </ul>
 </br>
 
+<h2 id="course2">Neural Basis of Learning and Memory</h2>
 
-
-
+<p>Lecture 1: Brief History of Work in the Area of Learning and Memory (<a href="lecture01.pdf">PDF</a>)</p>
+<p>Lecture 2: Introduction; Cells and Synapses (<a href="lecture02.pdf">PDF</a>)</p>
+<p>Lecture 3: Neuroimaging Techniques (<a href="lecture03.pdf">PDF</a>) (Courtesy of David Ziegler. Used with permission.)</p>
+<p>Lecture 4: Skill Memory (<a href="lecture04.pdf">PDF - 1.1 MB</a>) (Courtesy of Vincent CK Cheung. Used with permission.)</p>
+<p>Lecture 6: Sensory, Short-Term, and Working Memory (<a href="lecture06.pdf">PDF</a>) (Courtesy of Paymon Hosseini. Used with permission.)</p>
+<p>Lecture 21: Observational Learning; Mirror Neurons (<a href="lecture21.pdf">PDF</a>) (Courtesy of Joshua Sarinana. Used with permission.)</p>
+<p>Lecture 23: Emotional Learning and Memory (<a href="lecture23.pdf">PDF</a>)</p>
+</br>
