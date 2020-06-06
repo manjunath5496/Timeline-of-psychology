@@ -37,6 +37,10 @@
  <li><a href="#course36">Special Topics: Social Animals</a></li>
 <li><a href="#course37">Experimental Methods of Adjustable Tetrode Array Neurophysiology</a></li>  
 <li><a href="#course38">Neuropharmacology</a></li>  
+<li><a href="#course39">Language and Mind</a></li>   
+ 
+ 
+ 
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Introduction to Psychology</h2>
@@ -2318,6 +2322,8 @@
 </tbody>
 </table>
 </br>
+<h2 id="course39">Language and Mind</h2>
 
-
+<p>&nbsp;Why Study Language?&nbsp;(<a href="2/why_study_language.pdf">PDF</a>)<br />The Human Brain: Brain Areas (<a href="2/lecture_note_1.pdf">PDF</a>)<br />The Structure of Language (<a href="2/lecture_note_3.pdf">PDF</a>)<br />Relationship Between Language and Thought Beyond Cross-linguistic Differences (<a href="2/lecture_note_4.pdf">PDF</a>)</p>
+</br>
 
