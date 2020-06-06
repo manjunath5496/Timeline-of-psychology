@@ -12,7 +12,7 @@
 <li><a href="#course11">Developmental Neurobiology</a></li>
 <li><a href="#course12">Animal Behavior</a></li>
 <li><a href="#course13">Neural Coding and Perception of Sound</a></li>
-<li><a href="#course14">Molecular Structure of Biological Materials</a></li>
+<li><a href="#course14">Introduction to Computational Neuroscience</a></li>
 <li><a href="#course15">Quantitative Physiology: Organ Transport Systems</a></li>
 <li><a href="#course16">Biological Engineering Design</a></li>
 <li><a href="#course17">Foundations of Computational and Systems Biology</a></li>
@@ -778,3 +778,34 @@
 </tbody>
 </table>
 </br>
+<h2 id="course14">Introduction to Computational Neuroscience</h2>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction<br /><br />Examples of Neural Coding, Simple Linear Regression (<a href="1/lecture01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Convolution and Correlation 1 (<a href="1/lecture02.pdf">PDF</a>)<br /><br />Firing Rate</td>
+</tr>
+<tr class="row">
+<td><em>Optional Lecture 1</em><br /><br />Initializing and Using Vectors and Matrices in MATLAB&reg;, Matrix Shortcuts, Plots in MATLAB&reg;, Useful Commands<br /><br />Simple Statistics and Linear Regression (<a href="1/optional01.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Convolution and Correlation 2<br /><br />Spike-triggered Average<br /><br />Wiener-Hopf Equations and White Noise Analysis (<a href="1/lecture03.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Operant Matching 1 (<a href="1/lec6_match1.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+
+
