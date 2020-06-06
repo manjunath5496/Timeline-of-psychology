@@ -18,7 +18,7 @@
 <li><a href="#course17">Parkinson's Disease Workshop</a></li>
 <li><a href="#course18">Scene Understanding Symposium</a></li>
 <li><a href="#course19">Statistical Learning Theory and Applications</a></li>
-<li><a href="#course20">Biomaterials-Tissue Interactions</a></li>
+<li><a href="#course20">Systems Biology</a></li>
 <li><a href="#course21">Molecular and Cellular Pathophysiology </a></li>
 <li><a href="#course22">Design of Medical Devices and Implants</a></li>
 <li><a href="#course23">Biomedical Information Technology</a></li>
@@ -1124,4 +1124,110 @@
 </tbody>
 </table>
 </br>
+<h2 id="course20">Systems Biology</h2>
+
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col1"><strong>Part I: Systems Microbiology - 'The Cell as a Well-stirred Bioreactor'</strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Introduction (<a href="1/l1_notes.pdf">PDF</a>)<br /><br />Michaelis-Menten Kinetics</td>
+</tr>
+<tr class="row">
+<td headers="col2">Equilibrium Binding<br /><br />Cooperativity</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Lambda Phage (<a href="1/l3_notes.pdf">PDF</a>)<br /><br />Multistability<br /><br />Associated MATLAB&reg; Code File (<a href="1/CodeI2.m">M</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Multistability (cont.) (<a href="1/l4_notes.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Synthetic Genetic Switches</td>
+</tr>
+<tr class="row">
+<td headers="col2">Stability Analysis (<a href="1/l6_notes.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Introduction&nbsp;<em>E. coli</em>&nbsp;Chemotaxis (<a href="1/l7_notes.pdf">PDF - 1.3 MB</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Fine-tuned versus Robust Chemotaxis Models (<a href="1/l8_notes.pdf">PDF</a>)<br /><br />Associated MATLAB&reg; Code File (<a href="1/CodeI4.m">M</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Wrapping up Chemotaxis (<a href="1/l9_notes.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+<tbody>
+<tr class="row">
+<td headers="col2">Genetic Oscillators (<a href="1/l10_notes.pdf">PDF</a>)<br /><br />Associated MATLAB&reg; Code File (<a href="1/CodeI6.m">M</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Genetic Oscillators (cont.)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Stochastic Chemical Kinetics</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Stochastic Chemical Kinetics (cont.)</td>
+</tr>
+<tr class="row">
+<td headers="col1"><strong>Part II: Cell Systems Biology - 'The Importance of Diffusion and Gradients for Cellular Regulation'</strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Introduction Cell Systems Biology (<a href="1/l14_notes.pdf">PDF</a>)<br /><br />Fick's Laws</td>
+</tr>
+<tr class="row">
+<td headers="col2">Local Excitation<br /><br />Global Inhibition Theory</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Local Excitation (cont.) (<a href="1/l16_notes.pdf">PDF</a>)<br /><br />Global Inhibition Theory (cont.)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Rapid Pole-to-pole Oscillations in&nbsp;<em>E. coli</em>&nbsp;(<a href="1/l17_notes.pdf">PDF</a>)
+<p>Associated MATLAB&reg; Code File (<a href="1/how_homog.m">M - 1 of 2</a>) (<a href="1/">M - 2 of 2</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Rapid Pole-to-pole Oscillations in&nbsp;<em>E. coli</em>&nbsp;(cont.) (<a href="1/l18_notes.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+<tbody>
+<tr class="row">
+<td headers="col2">Models for Eukaryotic Gradient Sensing</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Models for Eukaryotic Gradient Sensing (cont.) (<a href="1/l20_notes.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Modeling Cytoskeleton Dynamics</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Modeling Cytoskeleton Dynamics (cont.)</td>
+</tr>
+<tr class="row">
+<td headers="col1"><strong>Part III: Developmental Systems Biology - 'Building an Organism Starting From a Single Cell'</strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Quorum Sensing (<a href="1/l23_notes.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Final Problem Set Question Hour</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Drosophila Development (<a href="1/l25_notes.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
 
