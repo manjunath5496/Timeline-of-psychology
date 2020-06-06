@@ -1,7 +1,7 @@
 <ul>
 <li><a href="#course1">Introduction to Psychology</a></li>
 <li><a href="#course2">Neural Basis of Learning and Memory</a></li>
-<li><a href="#course3">Chemicals in the Environment: Toxicology and Public Health</a></li>
+<li><a href="#course3">Sensory Systems</a></li>
 <li><a href="#course4">Systems Microbiology</a></li>
 <li><a href="#course5">Laboratory Fundamentals in Biological Engineering</a></li>
 <li><a href="#course6">Thermodynamics of Biomolecular Systems</a></li>
@@ -57,3 +57,57 @@
 <p>Lecture 21: Observational Learning; Mirror Neurons (<a href="lecture21.pdf">PDF</a>) (Courtesy of Joshua Sarinana. Used with permission.)</p>
 <p>Lecture 23: Emotional Learning and Memory (<a href="lecture23.pdf">PDF</a>)</p>
 </br>
+<h2 id="course3">Sensory Systems</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT9_04F13_Aud_intro.pdf">Introduction to course (PDF)</a>;&nbsp;<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT9_04F13_Vis1.pdf">visual system (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT9_04F13_Vis2.pdf">Basic layout of the retina (PDF - 1.1MB)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT9_04F13_Vis3.pdf">Lateral geniculate nucleus and the visual cortex (PDF - 2.9MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT9_04F13_Vis4.pdf">The ON and OFF channels (PDF - 2.0MB)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT9_04F13_Vis5.pdf">The Midget and Parasol channels (PDF - 2.3MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT9_04F13_Vis6.pdf">Adaptation and color (PDF - 1.1MB)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT9_04F13_Vis7.pdf">Depth perception (PDF - 5.6MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT9_04F13_Vis8.pdf">Form perception (PDF - 3.6MB)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT9_04F13_Vis9.pdf">Illusions and visual prosthesis (PDF - 1.1MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT9_04F13_Vis10.pdf">The neural control of visually guided eye movements, part 1 (PDF - 1.5MB)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT9_04F13_Vis11.pdf">The neural control of visually guided eye movements, part 2 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT9_04F13_Vis12.pdf">Motion perception and pursuit eye movements (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT9_04F13_Vis13.pdf">Overview of vision (PDF - 1.4MB)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
