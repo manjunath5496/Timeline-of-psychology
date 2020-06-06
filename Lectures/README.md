@@ -14,7 +14,7 @@
 <li><a href="#course13">Neural Coding and Perception of Sound</a></li>
 <li><a href="#course14">Introduction to Computational Neuroscience</a></li>
 <li><a href="#course15">Neural Plasticity in Learning and Development</a></li>
-<li><a href="#course16">Biological Engineering Design</a></li>
+<li><a href="#course16">Sensation And Perception</a></li>
 <li><a href="#course17">Foundations of Computational and Systems Biology</a></li>
 <li><a href="#course18">Cell-Matrix Mechanics</a></li>
 <li><a href="#course19">Analysis of Biological Networks</a></li>
@@ -814,3 +814,61 @@
 <p>Lecture 4: Potentiation of Synaptic Transmission (<a href="1/lecture_4_Notes.pdf">PDF</a>)</p>
 <p>Lecture 5: Expression of Plasticity (<a href="1/lecture_5_Notes.pdf">PDF</a>)</p>
 </br>
+<h2 id="course16">Sensation And Perception</h2>
+
+<table class="tablewidth100" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">PROBLEM&nbsp;SETS</th>
+<th scope="col">PROBLEM&nbsp;SET&nbsp;SOLUTIONS (SELECTED)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="gray-row">
+<td>Problem set 1 (<a href="1/MIT9_35s09_pset01.pdf">PDF</a>)</td>
+<td>Problem set 1 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/MIT9_35s09_sol_pset01.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td>Problem set 2 (<a href="1/MIT9_35s09_pset02.pdf">PDF</a>)</td>
+<td>Problem set 2 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/MIT9_35s09_sol_pset02.pdf">PDF</a>)</td>
+</tr>
+<tr class="gray-row">
+<td>Problem set 3 (<a href="1/MIT9_35s09_pset03.pdf">PDF</a>)</td>
+<td>Problem set 3 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/MIT9_35s09_sol_pset03.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td>
+<p>Problem set 4 (<a href="1/MIT9_35s09_pset04.pdf">PDF</a>)</p>
+<p>Filtering function, filterim.m (<a href="1/filterim.m">M</a>)</p>
+<p>Viewing function, viewim.m (<a href="1/viewim.m">M</a>)</p>
+<p>Image file, mdr_im.mat (<a href="1/mdr_im.mat">MAT</a>)</p>
+</td>
+<td>Problem set 4 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/MIT9_35s09_sol_pset04.pdf">PDF - 3.2MB</a>)</td>
+</tr>
+<tr class="gray-row">
+<td>
+<p>Problem set 5 (<a href="1/MIT9_35s09_pset05.pdf">PDF</a>)</p>
+<p>Binary file, orlFaces.mat (<a href="1/orlFaces.mat">MAT</a>)</p>
+</td>
+<td>Problem set 5 (<a href="1/MIT9_35s09_sol_pset05.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td>
+<p>Problem set 6 (part 1) (<a href="1/MIT9_35s09_pset06_part1.pdf">PDF</a>)</p>
+<p>e1.wav (<a href="1/e1.wav">WAV</a>)</p>
+<p>s1.wav (<a href="1/s1.wav">WAV</a>)</p>
+</td>
+<td>
+<p>Problem set 6 part 1 (<a href="1/MIT9_35s09_sol_pset06_part1.pdf">PDF</a>)</p>
+<p>Problem set 6 full (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/MIT9_35s09_sol_pset06_full.pdf">PDF</a>)</p>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
+
+
+
