@@ -2355,5 +2355,6 @@
 <ul>
 <li class="help slide-bottom">&nbsp;This short opinion piece captures some of the motivation for studying the science of intelligence: Koch, Christof, and Tomaso Poggio.&nbsp;<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="A%20Science%20of%20Intelligence.pdf">"A Science of Intelligence." (PDF)</a>&nbsp;<em>Center for Brains Minds and Machines Views &amp; Reviews</em>&nbsp;(2015).</li>
 <li class="help slide-bottom">Poggio, T., and E. Meyers.&nbsp;<a href="Turing_Plus_Questions.pdf">"Turing++ Questions: A Test for the Science of (Human) Intelligence." (PDF)</a>&nbsp;<em>AI Magazine</em>&nbsp;37, no. 1 (2016): 73&ndash;77.</li>
+<li id="center"><a href="svW8NV1A6k.pdf">&nbsp;Lecture 0: Tomaso Poggio - Introduction to Brains, Minds, &amp; Machines [Transcript]</a></li>
 </ul>
 </br>
