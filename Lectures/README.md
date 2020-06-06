@@ -17,7 +17,7 @@
 <li><a href="#course16">Sensation And Perception</a></li>
 <li><a href="#course17">Parkinson's Disease Workshop</a></li>
 <li><a href="#course18">Scene Understanding Symposium</a></li>
-<li><a href="#course19">Analysis of Biological Networks</a></li>
+<li><a href="#course19">Statistical Learning Theory and Applications</a></li>
 <li><a href="#course20">Biomaterials-Tissue Interactions</a></li>
 <li><a href="#course21">Molecular and Cellular Pathophysiology </a></li>
 <li><a href="#course22">Design of Medical Devices and Implants</a></li>
@@ -955,8 +955,173 @@
 </tbody>
 </table>
 </br>
+<h2 id="course19">Statistical Learning Theory and Applications</h2>
 
-
-
-
+<table summary="See table caption for summary.">
+<thead>
+<tr style="height: 13px;">
+<th style="height: 13px;" scope="col">TOPICS</th>
+<th style="height: 13px;" scope="col">SUMMARY</th>
+<th style="height: 13px;" scope="col">SLIDES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">The Course at a Glance</td>
+<td style="height: 13px;">(<a href="1/lec1.pdf">PDF</a>)</td>
+<td style="height: 13px;">(<a href="1/class01.pdf">PDF - 8.10 MB</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">The Learning Problem in Perspective</td>
+<td style="height: 13px;">(<a href="1/lec2.pdf">PDF</a>)</td>
+<td style="height: 13px;">(<a href="1/class02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Reproducing Kernel Hilbert Spaces</td>
+<td style="height: 13px;">(<a href="1/lec3.pdf">PDF</a>)</td>
+<td style="height: 13px;">(<a href="1/class03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Regression and Least-Squares Classification</td>
+<td style="height: 13px;">(<a href="1/lec4.pdf">PDF</a>)</td>
+<td style="height: 13px;">(<a href="1/class04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Support Vector Machines for Classification</td>
+<td style="height: 13px;">(<a href="1/lec5.pdf">PDF</a>)</td>
+<td style="height: 13px;">(<a href="1/class05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Manifold Regularization</td>
+<td style="height: 13px;">(<a href="1/lec6.pdf">PDF</a>)</td>
+<td style="height: 13px;">(<a href="1/class06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Unsupervised Learning Techniques</td>
+<td style="height: 13px;">(<a href="1/lec7.pdf">PDF</a>)</td>
+<td style="height: 13px;">(<a href="1/class07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Multiclass</td>
+<td style="height: 13px;">(<a href="1/lec8.pdf">PDF</a>)</td>
+<td style="height: 13px;" headers="tbl632id0_3">(<a href="1/class08.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Ranking</td>
+<td style="height: 13px;">(<a href="1/lec9.pdf">PDF</a>)</td>
+<td style="height: 13px;">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/class09.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Boosting and Bagging</td>
+<td style="height: 13px;">(<a href="1/lec10.pdf">PDF</a>)</td>
+<td style="height: 13px;">(<a href="1/class10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 59px;">
+<td style="height: 59px;">
+<p>Computer Vision</p>
+<p>Object Detection</p>
+</td>
+<td style="height: 59px;">&nbsp;</td>
+<td style="height: 59px;">&nbsp;</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Online Learning</td>
+<td style="height: 13px;">(<a href="1/lec12.pdf">PDF</a>)</td>
+<td style="height: 13px;">(<a href="1/class12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 59px;">
+<td style="height: 59px;">
+<p>Loose Ends</p>
+<p>Project Discussions</p>
+</td>
+<td style="height: 59px;">&nbsp;</td>
+<td style="height: 59px;">&nbsp;</td>
+</tr>
+<tr class="alt-row" style="height: 59px;">
+<td style="height: 59px;">
+<p>Generalization Bounds</p>
+<p>Introduction to Stability</p>
+</td>
+<td style="height: 59px;">(<a href="1/lec14.pdf">PDF</a>)</td>
+<td style="height: 59px;">(<a href="1/class14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Stability of Tikhonov Regularization</td>
+<td style="height: 13px;">(<a href="1/lec15.pdf">PDF</a>)</td>
+<td style="height: 13px;" headers="tbl632id0_3">(<a href="1/class15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Uniform Convergence Over Function Classes</td>
+<td style="height: 13px;">(<a href="1/lec16.pdf">PDF</a>)</td>
+<td style="height: 13px;">(<a href="1/class16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 59px;">
+<td style="height: 59px;">
+<p>Uniform Convergence for Classification</p>
+<p>VC-dimension</p>
+</td>
+<td style="height: 59px;">(<a href="1/lec17.pdf">PDF</a>)</td>
+<td style="height: 59px;">(<a href="1/class17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Neuroscience</td>
+<td style="height: 13px;">(<a href="1/lec18.pdf">PDF</a>)</td>
+<td style="height: 13px;">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/class18.pdf">PDF - 2.5 MB</a>)</td>
+</tr>
+<tr class="row" style="height: 59px;">
+<td style="height: 59px;">
+<p>Symmetrization</p>
+<p>Rademacher Averages</p>
+</td>
+<td style="height: 59px;">&nbsp;</td>
+<td style="height: 59px;">&nbsp;</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Fenchel Duality</td>
+<td style="height: 13px;">&nbsp;</td>
+<td style="height: 13px;">&nbsp;</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Speech / Audio</td>
+<td style="height: 13px;">&nbsp;</td>
+<td style="height: 13px;">&nbsp;</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Active Learning</td>
+<td style="height: 13px;">&nbsp;</td>
+<td style="height: 13px;">(<a href="1/class22.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Morphable Models for Video</td>
+<td style="height: 13px;">&nbsp;</td>
+<td style="height: 13px;">&nbsp;</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Bioinformatics</td>
+<td style="height: 13px;">&nbsp;</td>
+<td style="height: 13px;">&nbsp;</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Project Presentations</td>
+<td style="height: 13px;">&nbsp;</td>
+<td style="height: 13px;">&nbsp;</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Project Presentations (cont.)</td>
+<td style="height: 13px;">&nbsp;</td>
+<td style="height: 13px;">&nbsp;</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Math Camp 1: Functional Analysis</td>
+<td style="height: 13px;">&nbsp;</td>
+<td style="height: 13px;">(<a href="1/mathcamp02.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Math Camp 2: Probability Theory</td>
+<td style="height: 13px;">&nbsp;</td>
+<td style="height: 13px;">(<a href="1/mathcamp01.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
 
