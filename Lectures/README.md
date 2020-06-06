@@ -25,7 +25,11 @@
 <li><a href="#course24">Lab in Psycholinguistics</a></li>
 <li><a href="#course25">Language Acquisition I</a></li>
 
-
+<li><a href="#course26">Natural Language and the Computer Representation of Knowledge</a></li>
+<li><a href="#course22">The Lexicon and Its Features</a></li>
+<li><a href="#course23">Language Processing</a></li>
+<li><a href="#course24">Lab in Psycholinguistics</a></li>
+<li><a href="#course25">Language Acquisition I</a></li>
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Introduction to Psychology</h2>
@@ -1437,10 +1441,138 @@
 <p>Development of the Morphosyntax of Verbal Inflections (<a href="1/lecture_notes_.pdf">PDF</a>)<br />The OI Stage in English (<a href="1/lecture_OI.pdf">PDF</a>)</p>
 
 </br>
+<h2 id="course26">Natural Language and the Computer Representation of Knowledge</h2>
 
-
-
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><strong>Week 1: Introduction: The NLP Enterprise, from Words to Meaning</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Introduction, Organization, Laboratories, Course Overview: Introduction to NLP, Main Issues, fsa's<br />(<a href="1/lecture1.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td><strong>Week 2: Word Modeling: Automata and Linguistics</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Linguistics: Phonology and Morphology I, 2-level morphology, Kimmo<br />(<a href="1/lecture203.pdf">PDF - 1.6 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Linguistics: Phonology and Morphology II<br />(<a href="1/lecture303.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><strong>Week 3: Word Modeling: Statistical Approaches and Part of Speech Tagging</strong></td>
+</tr>
+<tr class="row">
+<td>No lecture</td>
+</tr>
+<tr class="alt-row">
+<td>HMM Tagging, Statistical Transformation<br />Rule-Based Tagging, Precision, Recall, Accuracy<br />(<a href="1/lecture4bw_03.pdf">PDF - 3.5 MB</a>)</td>
+</tr>
+<tr class="row">
+<td><strong>Week 4: Linguistics and Grammars; Parsing Algorithms I</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Part of Speech Tagging: The Brill Tagger<br />(<a href="1/lecture503.pdf">PDF - 1.8 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Introduction to Parsing, Linguistics: Syntax &amp; Parsing<br />(<a href="1/lecture603.pdf">PDF - 1.9 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><strong>Week 5: Parsing Algorithms II</strong></td>
+</tr>
+<tr class="row">
+<td>Shift-Reduce Parsers in Detail, Earley's Algorithm and Chart Parsing<br />(<a href="1/lecture7bw_03.pdf">PDF - 2.8 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Context-Free Parsing and Beyond: Efficiency Issues, Feature-Based Parsing, NL System Design<br />(<a href="1/lecture8bw_03.pdf">PDF - 2.5 MB</a>)</td>
+</tr>
+<tr class="row">
+<td><strong>Week 6: Parsing Algorithms and the Lexicon</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Shift-Reduce Parsers in Detail, Earley's Algorithm and Chart Parsing (<a href="1/lecture903.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Parsing with an Integrated Lexicon - The Question of Syntactic Features<br />(<a href="1/lecture10bw03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><strong>Week 7: Semantic Interpretation</strong></td>
+</tr>
+<tr class="row">
+<td>Semantic Interpretation I: Compositionality<br />(<a href="1/lecture1103.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Semantic Interpretation II: Compositionality and Quantifiers<br />(<a href="1/lecture12bw_03.pdf">PDF - 2.8 MB</a>)</td>
+</tr>
+<tr class="row">
+<td><strong>Week 8: Feature Parsing; Tree Banks and Probabilistic Parsing</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Semantics III: Lexical Semantics<br />(<a href="1/lecture1303a.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Semantics IV: Lexical Semantics<br />(<a href="1/lecture1403updated3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><strong>Week 9: Semantics II</strong></td>
+</tr>
+<tr class="row">
+<td>Semantics V: Constraint-Based Systems</td>
+</tr>
+<tr class="alt-row">
+<td>Semantics V: Constraint-Based Systems<br />(<a href="1/lecture16bw_03.pdf">PDF - 1.6 MB</a>)</td>
+</tr>
+<tr class="row">
+<td><strong>Week 10: Machine Translation I and II</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Machine Translation I<br />(<a href="1/lecture17bw_03.pdf">PDF - 1.4 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Machine Translation II</td>
+</tr>
+<tr class="alt-row">
+<td><strong>Week 11: Machine Translation III</strong></td>
+</tr>
+<tr class="row">
+<td>Machine Translation III<br />(<a href="1/lecture19bw_03.pdf">PDF - 1.5 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><strong>Week 12: Machine Translation IV</strong></td>
+</tr>
+<tr class="row">
+<td>Project Discussion Day</td>
+</tr>
+<tr class="alt-row">
+<td>Machine Translation IV<br />(<a href="1/lecture2003.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td><strong>Week 13: Language Learning</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Language Learning I<br />(<a href="1/lecture2103a.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Language Learning II<br />(<a href="1/lecture2203.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><strong>Week 14: Evolutionary Models of Language Learning and Origins</strong></td>
+</tr>
+<tr class="row">
+<td>Computational Models of Language Change, I</td>
+</tr>
+<tr class="alt-row">
+<td>Computational Models of Language Change and the Origins of Language</td>
+</tr>
+</tbody>
+</table>
+</br>
 
 
 
