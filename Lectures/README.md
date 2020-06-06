@@ -32,7 +32,7 @@
 <li><a href="#course31">Affect: Neurobiological, Psychological and Sociocultural Counterparts of "Feelings"</a></li>  
 <li><a href="#course32">Social Psychology</a></li> 
 <li><a href="#course33">Infant and Early Childhood Cognition</a></li>
-<li><a href="#course31">Affect: Neurobiological, Psychological and Sociocultural Counterparts of "Feelings"</a></li>  
+<li><a href="#course34">Pattern Recognition for Machine Vision</a></li>  
 <li><a href="#course32">Social Psychology</a></li>  
   
 </ul>
@@ -2128,4 +2128,90 @@
 </tbody>
 </table>
 </br>
+<h2 id="course34">Pattern Recognition for Machine Vision</h2>
+
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th id="tbl958id0_1" scope="col">TOPICS</th>
+<th id="tbl958id0_2" scope="col">NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="tbl958id0_1">Overview, Introduction</td>
+<td headers="tbl958id0_2">
+<p>Course Introduction (<a href="2/class1_04_part1.pdf">PDF - 2.6 MB</a>)</p>
+<p>Vision: Feature Extraction Overview&nbsp;<span class="nobr">(<a href="2/class1_2_2004.pdf">PDF - 1.9 MB</a>)</span></p>
+<p>Quick MATLAB&reg; Tutorial (<a href="2/class1_04_matlab.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl958id0_1">Vision - Image Formation and Processing</td>
+<td headers="tbl958id0_2">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="tbl958id0_1">Vision - Feature Extraction I</td>
+<td headers="tbl958id0_2">(<a href="2/class_3.pdf">PDF - 2.4 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl958id0_1">PR/Vis - Feature Extraction II/Bayesian Decisions</td>
+<td headers="tbl958id0_2">
+<p>Part 1: Bayesian Decision Theory&nbsp;<span class="nobr">(<a href="2/class4_1.pdf">PDF - 1.1 MB</a>)</span></p>
+<p>Part 2: Principal and Independent Component Analysis (<a href="2/class_4_part_2.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl958id0_1">PR - Density Estimation</td>
+<td headers="tbl958id0_2">(<a href="2/class5_2003.pdf">PDF - 1.4 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl958id0_1">PR - Classification</td>
+<td headers="tbl958id0_2">(<a href="2/class_5.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl958id0_1">Biological Object Recognition</td>
+<td headers="tbl958id0_2">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl958id0_1">PR - Clustering</td>
+<td headers="tbl958id0_2">
+<p>Part 1: Techniques for Clustering (<a href="2/class7_2004.pdf">PDF</a>)</p>
+<p>Part 2: An Application of Clustering (<a href="2/class_8_2.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl958id0_1">Paper Discussion</td>
+<td headers="tbl958id0_2">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>App I - Object Detection/Recognition</td>
+<td>(<a href="2/class_9.pdf">PDF - 1.3 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>App II - Morphable Models</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>App III - Tracking</p>
+<p><em>Guest Lecturer: Christopher R. Wren</em></p>
+</td>
+<td>(<a href="2/class_11.pdf">PDF - 1.0 MB</a>) Courtesy of Christopher R. Wren. Used with permission.</td>
+</tr>
+<tr class="row">
+<td>App IV - Gesture and Action Recognition</td>
+<td>(<a href="2/class13_2004.pdf">PDF - 3.0 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Project Presentation</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
 
