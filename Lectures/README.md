@@ -8,7 +8,7 @@
 <li><a href="#course7">Neurology, Neuropsychology, and Neurobiology of Aging</a></li>
 <li><a href="#course8">Neurotechnology in Action</a></li>
 <li><a href="#course9">Brain Structure and Its Origins</a></li>
-<li><a href="#course10">Molecular, Cellular, and Tissue Biomechanics</a></li>
+<li><a href="#course10">Systems Neuroscience Lab</a></li>
 <li><a href="#course11">Analysis of Biomolecular and Cellular Systems</a></li>
 <li><a href="#course12">Fields, Forces and Flows in Biological Systems</a></li>
 <li><a href="#course13">Materials for Biomedical Applications</a></li>
@@ -407,5 +407,64 @@
 <p><a href="MIT9_14S14_Quiz1.pdf">Quiz 1 (PDF)</a></p>
 <p><a href="MIT9_14S14_MidtermExam.pdf">Midterm Exam 2014 (PDF)</a></p>
 </br>
+<h2 id="course10">Systems Neuroscience Lab</h2>
 
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">LECTURE&nbsp;SLIDES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><strong>Section 1. General Course Information</strong></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT9_17S13_Lecture_1.pdf">Class Overview (PDF - 2.6MB)</a></td>
+</tr>
+<tr class="row">
+<td><strong>Section 2. Equipment Overview</strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="MIT9_17S13_Lecture2_part1.pdf">Practical lecture part 1 (PDF - 1.1MB)</a></p>
+<p><a href="MIT9_17S13_Lecture2_part2.pdf">Practical lecture part 2 (PDF - 1.3MB)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td><strong>Section 3. Classical Anatomy</strong></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT9_17S13_Lecture_3.pdf">Neurohistology (PDF - 2.7MB)</a></td>
+</tr>
+<tr class="row">
+<td colspan="5"><strong>Section 4. Cockroach Receptive Fields</strong></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT9_17S13_Lecture_4.pdf">Cockroach sensory processing (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><strong>Section 5. Frog CAP Stimulation</strong></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT9_17S13_Lecture_5.pdf">Frog compound action potential (PDF - 1.6MB)</a></td>
+</tr>
+<tr class="row">
+<td colspan="5"><strong>Section 6. Rat Barrel Physiology</strong></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT9_17S13_Lecture_6.pdf">Rat barrel cortex: Principles of sensory processing (PDF - 1.2MB)</a></td>
+</tr>
+<tr class="row">
+<td colspan="5"><strong>Section 8. Fly Vision Project</strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="MIT9_17S13_Flylabpart_1.pdf">Fly lab part 1 (PDF - 5.6MB)</a></p>
+<p><a href="MIT9_17S13_Flylabpart_2.pdf">Fly lab part 2 (PDF - 1.2MB)</a></p>
+<p><a href="MIT9_17S13_Flylabpart_3.pdf">Fly lab part 3 (PDF - 2.6MB)</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
