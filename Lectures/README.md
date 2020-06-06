@@ -36,7 +36,7 @@
 <li><a href="#course35">Special Topics: Genetics, Neurobiology, and Pathophysiology of Psychiatric Disorders</a></li>  
  <li><a href="#course36">Special Topics: Social Animals</a></li>
 <li><a href="#course37">Experimental Methods of Adjustable Tetrode Array Neurophysiology</a></li>  
-<li><a href="#course35">Special Topics: Genetics, Neurobiology, and Pathophysiology of Psychiatric Disorders</a></li>  
+<li><a href="#course38">Neuropharmacology</a></li>  
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Introduction to Psychology</h2>
@@ -2294,3 +2294,30 @@
 <li class="maintabletemplate">&nbsp;Lecture 1: Introduction (<a href="2/9_96INTRO.pdf">PDF - 1.8MB</a>)</li>
 </ul>
 </br>
+<h2 id="course38">Neuropharmacology</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Basics of neuroscience (<a href="2/lecture_1.pdf">PDF - 2.5 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The neurotransmitter systems (<a href="2/lecture_2.pdf">PDF - 1.7 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Neuropsychiatric disorders: anxiety, mood disorders (<a href="2/lecture_3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Neuropsychiatric disorders: schizophrenia, final exam (<a href="2/lecture_4.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
