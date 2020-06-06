@@ -7,7 +7,7 @@
 <li><a href="#course6">Human Memory and Learning</a></li>
 <li><a href="#course7">Neurology, Neuropsychology, and Neurobiology of Aging</a></li>
 <li><a href="#course8">Neurotechnology in Action</a></li>
-<li><a href="#course9">Mechanisms of Drug Actions</a></li>
+<li><a href="#course9">Brain Structure and Its Origins</a></li>
 <li><a href="#course10">Molecular, Cellular, and Tissue Biomechanics</a></li>
 <li><a href="#course11">Analysis of Biomolecular and Cellular Systems</a></li>
 <li><a href="#course12">Fields, Forces and Flows in Biological Systems</a></li>
@@ -263,6 +263,149 @@
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id="course9">Brain Structure and Its Origins</h2>
+
+
+<table class="tablewidth100" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction: brain orientation, primitive cellular activities</td>
+<td>
+<p><a href="MIT9_14S14_Lecture1.pdf">Lecture 1 Notes (PDF - 1.8MB)</a></p>
+<p><a href="MIT9_14S14_Lecture2.pdf">Lecture 2 Notes (PDF - 3.8MB)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Steps to the CNS of chordates</td>
+<td>
+<p><a href="MIT9_14S14_Lecture3.pdf">Lecture 3 Notes (PDF)</a></p>
+<p><a href="MIT9_14S14_Lecture4.pdf">Lecture 4 Notes (PDF - 1.6MB)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>Introduction to the pre-mammalian brain; specializations; overview of forebrain structures</td>
+<td>
+<p><a href="MIT9_14S14_Lecture5.pdf">Lecture 5 Notes (PDF - 1.6MB)</a></p>
+<p><a href="MIT9_14S14_Lecture6.pdf">Lecture 6 Notes (PDF - 1.8MB)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Completion of forebrain structures. CNS development and anatomy</td>
+<td>
+<p><a href="MIT9_14S14_Lecture7.pdf">Lecture 7 Notes (PDF - 2.2MB)</a></p>
+<p><a href="MIT9_14S14_Lecture8.pdf">Lecture 8 Notes (PDF - 1.6MB)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>Autonomic nervous system. Differentiation of the brain vesicles: Intro to hindbrain and segmentation</td>
+<td><a href="MIT9_14S14_Lecture9.pdf">Lecture 9 Notes (PDF - 3.1MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Differentiation of the brain vesicles: Hindbrain &amp; cranial nerves, specializations</td>
+<td><a href="MIT9_14S14_Lecture10.pdf">Lecture 10 Notes (PDF - 2.8MB)</a></td>
+</tr>
+<tr class="row">
+<td>Differentiation of the brain vesicles: Developmental distortions; evolution of midbrain &amp; forebrain; midbrain organization</td>
+<td><a href="MIT9_14S14_Lecture11.pdf">Lecture 11 Notes (PDF - 2.3MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Differentiation of the brain vesicles: Vertebrate forebrain evolution &amp; organization</td>
+<td><a href="MIT9_14S14_Lecture12.pdf">Lecture 12 Notes (PDF - 2.0MB)</a></td>
+</tr>
+<tr class="row">
+<td>CNS differentiation: Axon growth</td>
+<td>
+<p><a href="MIT9_14S14_Lecture13.pdf">Lecture 13 Notes (PDF - 1.7MB)</a></p>
+<p><a href="MIT9_14S14_Lecture14.pdf">Lecture 14 Notes (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Motor systems, brain states; review</td>
+<td>
+<p><a href="MIT9_14S14_Lecture15.pdf">Lecture 15 Notes (PDF - 1.8MB)</a></p>
+<p><a href="MIT9_14S14_Lecture16.pdf">Lecture 16 Notes (PDF)</a></p>
+<p><a href="MIT9_14S14_Lecture17.pdf">Lecture 17 Notes (PDF)</a></p>
+<p><a href="MIT9_14S14_Lecture18.pdf">Lecture 18 Notes (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>Midterm Exam</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Sheep brain dissection (Students required to wear appropriate lab attire.) Taste and olfactory systems (readings only).</td>
+<td>Students should search online for "Sheep brain dissection" for a guide with images.</td>
+</tr>
+<tr class="row">
+<td>Visual systems</td>
+<td>
+<p><a href="MIT9_14S14_Lecture21.pdf">Lecture 21 Notes (PDF - 1.7MB)</a></p>
+<p><a href="MIT9_14S14_Lecture22.pdf">Lecture 22 Notes (PDF - 2.3MB)</a></p>
+<p><a href="MIT9_14S14_Lecture23.pdf">Lecture 23 Notes (PDF - 4.1MB)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Auditory and related sensory systems</td>
+<td>
+<p><a href="MIT9_14S14_Lecture24.pdf">Lecture 24 Notes (PDF - 1.8MB)</a></p>
+<p><a href="MIT9_14S14_Lecture25.pdf">Lecture 25 Notes (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>Forebrain evolution</td>
+<td><a href="MIT9_14S14_Lecture26.pdf">Lecture 26 Notes (PDF - 1.1MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Hypothalamus and limbic system, part 1</td>
+<td>
+<p><a href="MIT9_14S14_Lecture27.pdf">Lecture 27 Notes (PDF - 1.2MB)</a></p>
+<p><a href="MIT9_14S14_Lecture28.pdf">Lecture 28 Notes (PDF - 1.3MB)</a></p>
+<p><a href="MIT9_14S14_Lecture29.pdf">Lecture 29 Notes (PDF - 2.8MB)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>Hormonal and other influences on brain development and plasticity</td>
+<td><a href="MIT9_14S14_Lecture30.pdf">Lecture 30 Notes (PDF - 1.1MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Hippocampal formation</td>
+<td><a href="MIT9_14S14_Lecture31.pdf">Lecture 31 Notes (PDF - 2.4MB)</a></td>
+</tr>
+<tr class="row">
+<td>Amygdala and other aspects of limbic forebrain</td>
+<td><a href="MIT9_14S14_Lecture32.pdf">Lecture 32 Notes (PDF - 2.9MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Corpus striatum</td>
+<td>
+<p><a href="MIT9_14S14_Lecture33.pdf">Lecture 33 Notes (PDF - 1.9MB)</a></p>
+<p><a href="MIT9_14S14_Lecture34.pdf">Lecture 34 Notes (PDF - 2.5MB)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>Neocortex</td>
+<td>
+<p><a href="MIT9_14S14_Lecture35.pdf">Lecture 35 Notes (PDF - 1.7MB)</a></p>
+<p><a href="MIT9_14S14_Lecture36.pdf">Lecture 36 Notes (PDF - 1.2MB)</a></p>
+<p><a href="MIT9_14S14_Lecture37.pdf">Lecture 37 Notes (PDF - 4.5MB)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Plasticity in brain connections; review</td>
+<td><a href="MIT9_14S14_Lecture38.pdf">Lecture 38 Notes (PDF - 1.4MB)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+<p><a href="MIT9_14S14_Quiz1.pdf">Quiz 1 (PDF)</a></p>
+<p><a href="MIT9_14S14_MidtermExam.pdf">Midterm Exam 2014 (PDF)</a></p>
 </br>
 
 
