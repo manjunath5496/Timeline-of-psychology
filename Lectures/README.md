@@ -5,7 +5,7 @@
 <li><a href="#course4">Brain Mechanisms for Hearing and Speech</a></li>
 <li><a href="#course5">Statistics for Brain and Cognitive Science</a></li>
 <li><a href="#course6">Human Memory and Learning</a></li>
-<li><a href="#course7">Biological Engineering Programming</a></li>
+<li><a href="#course7">Neurology, Neuropsychology, and Neurobiology of Aging</a></li>
 <li><a href="#course8">Computation for Biological Engineers</a></li>
 <li><a href="#course9">Mechanisms of Drug Actions</a></li>
 <li><a href="#course10">Molecular, Cellular, and Tissue Biomechanics</a></li>
@@ -227,6 +227,12 @@
 <p>Lecture 3: Neuroimaging and Cognitive Control (<a href="lecnote3.pdf">PDF</a>)</p>
 <p>Lecture 5: Episodic and PrimarycMemory (<a href="lecnote5.pdf">PDF</a>)</p>
 <p>Lecture 9: Nondeclarative Memory (<a href="lecnote9.pdf">PDF</a>)</p>
+
+</br>
+<h2 id="course7">Neurology, Neuropsychology, and Neurobiology of Aging</h2>
+
+<p>Study of Verbal Working Memory in Patients with Parkinson's Disease (<a href="9110_gilb_1983f5.pdf">PDF</a>)</p>
+<p>Source Memory in Older Adults: An Encoding or Retrieval Problem (<a href="9110_glis_1983f6.pdf">PDF</a>)</p>
 
 </br>
 
