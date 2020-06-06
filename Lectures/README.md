@@ -31,7 +31,9 @@
 <li><a href="#course30">Computational Cognitive Science</a></li>
 <li><a href="#course31">Affect: Neurobiological, Psychological and Sociocultural Counterparts of "Feelings"</a></li>  
 <li><a href="#course32">Social Psychology</a></li> 
-  
+<li><a href="#course33">Infant and Early Childhood Cognition</a></li>
+<li><a href="#course31">Affect: Neurobiological, Psychological and Sociocultural Counterparts of "Feelings"</a></li>  
+<li><a href="#course32">Social Psychology</a></li>  
   
 </ul>
 <p>&nbsp;</p>
@@ -2062,8 +2064,68 @@
 
 </br>
 
+<h2 id="course33">Infant and Early Childhood Cognition</h2>
 
 
-
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="1/MIT9_85F12_lec1_intro.pdf">Introduction&mdash;philosophical questions, psychological methods (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MIT9_85F12_lec2_piaget.pdf">Theoretical perspectives in developmental psychology: Piaget (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="1/MIT9_85F12_lec3_post-piag.pdf">Theoretical perspectives post-Piaget (PDF - 1.5MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MIT9_85F12_lec4_methods.pdf">Methods (cont.) and perception (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="1/MIT9_85F12_lec5.pdf">Perception (cont.) and object knowledge (PDF - 1.1MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MIT9_85F12_lec6_objects.pdf">Objects and number (PDF - 1.4MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="1/MIT9_85F12_lec7_stats.pdf">Statistical reasoning in infancy (PDF - 1.6MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="1/MIT9_85F12_lec8_comptmod.pdf">Computational models of cognitive development courtesy of Julian Jara-Ettinger (PDF - 1.9MB)<br /></a><a href="1/MIT9_85F12_lec8CompSupNo.pdf">Supplementary notes courtesy of Julian Jara-Ettinger (PDF)</a></p>
+<p><a href="1/MIT9_85F12_lec8_navigation.pdf">Spatial navigation courtesy of Max Siegel (PDF - 1.3MB)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td><a href="1/MIT9_85F12_lec9_concepts.pdf">Concepts: From definitions to features to theories (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MIT9_85F12_lec10_causality.pdf">Causal knowledge in infancy and early childhood (PDF - 1.4MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="1/MIT9_85F12_lec11_agency.pdf">The perception of agency and goal-directed action in infancy; agency and attachment (PDF - 1.9MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MIT9_85F12_lec12.pdf">Attachment (cont.) and representational theory of mind (PDF - 1.3MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="1/MIT9_85F12_lec13.pdf">Theory of mind (cont.) and autism (PDF - 1.4MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MIT9_85F12_lec14.pdf">Word learning (PDF - 1.3MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="1/MIT9_85F12_lec15_language.pdf">Language courtesy of Melissa Kline and Kim Scott (PDF - 1.2MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/MIT9_85F12_lec16.pdf">Moral reasoning (PDF - 1.7MB)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
 
