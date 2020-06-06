@@ -28,7 +28,7 @@
 <li><a href="#course26">Natural Language and the Computer Representation of Knowledge</a></li>
 <li><a href="#course27">Laboratory in Visual Cognition</a></li>
 <li><a href="#course28">Introduction to Neural Networks</a></li>
-<li><a href="#course24">Lab in Psycholinguistics</a></li>
+<li><a href="#course29">Cognitive Processes</a></li>
 <li><a href="#course25">Language Acquisition I</a></li>
 </ul>
 <p>&nbsp;</p>
@@ -1722,5 +1722,87 @@
 </table>
 </br>
 
+<h2 id="course29">Cognitive Processes</h2>
 
-
+<table class="tablewidth100" summary="See table caption for summary.">
+<thead>
+<tr>
+<th id="col2" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="gray-row">
+<td>Introduction<br /><br />How We Read (<a href="1/feb4h04.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td>Object Recognition (<a href="1/feb9h04.pdf">PDF</a>)</td>
+</tr>
+<tr class="gray-row">
+<td>Attention I (<a href="1/feb11h04.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td>Attention II (<a href="1/feb17h04.pdf">PDF</a>)</td>
+</tr>
+<tr class="gray-row">
+<td>Lab 1: Memory</td>
+</tr>
+<tr class="white-row">
+<td>Memory I: Working Memory (<a href="1/feb23h04.pdf">PDF</a>)</td>
+</tr>
+<tr class="gray-row">
+<td>Memory II: Conceptual Short Term Memory (<a href="1/feb25h04.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td>Memory III: Implicit Memory (<a href="1/mar1h04.pdf">PDF</a>)</td>
+</tr>
+<tr class="gray-row">
+<td>Memory IV: Remembering and Forgetting</td>
+</tr>
+<tr class="white-row">
+<td>Memory V: Associative Memory (<a href="1/mar10h04.pdf">PDF</a>)</td>
+</tr>
+<tr class="gray-row">
+<td>Learning (<a href="1/mar15h04.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td>Lab 2: Images, Concepts, Language (<a href="1/mar17h04.pdf">PDF</a>)</td>
+</tr>
+<tr class="gray-row">
+<td>Concepts and Prototypes (<a href="1/mar29h04.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td>Language: Psycholinguistics (<a href="1/mar31h04.pdf">PDF</a>)</td>
+</tr>
+<tr class="gray-row">
+<td>Visual Knowledge (<a href="1/apr5h04.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td>Mental Codes I (<a href="1/apr12_14h04.pdf">PDF</a>)</td>
+</tr>
+<tr class="gray-row">
+<td>Mental Codes II</td>
+</tr>
+<tr class="white-row">
+<td>Lab 3: Judgment, Reasoning, and Problem-solving</td>
+</tr>
+<tr class="gray-row">
+<td>Judgment and Reasoning I</td>
+</tr>
+<tr class="white-row">
+<td>Judgment and Reasoning II</td>
+</tr>
+<tr class="gray-row">
+<td>TBA</td>
+</tr>
+<tr class="white-row">
+<td>Solving Problems (<a href="1/may5h04.pdf">PDF</a>)</td>
+</tr>
+<tr class="gray-row">
+<td>Conscious and Unconscious Thought</td>
+</tr>
+<tr class="white-row">
+<td>Review</td>
+</tr>
+</tbody>
+</table>
+</br>
