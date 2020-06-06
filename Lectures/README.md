@@ -19,7 +19,7 @@
 <li><a href="#course18">Scene Understanding Symposium</a></li>
 <li><a href="#course19">Statistical Learning Theory and Applications</a></li>
 <li><a href="#course20">Systems Biology</a></li>
-<li><a href="#course21">Molecular and Cellular Pathophysiology </a></li>
+<li><a href="#course21">Language Acquisition </a></li>
 <li><a href="#course22">Design of Medical Devices and Implants</a></li>
 <li><a href="#course23">Biomedical Information Technology</a></li>
 <li><a href="#course24">Molecular Principles of Biomaterials</a></li>
@@ -1227,7 +1227,9 @@
 </tbody>
 </table>
 </br>
+<h2 id="course21">Language Acquisition</h2>
 
+<p>Problem set 1: Language learning (<a href="1/ProblemSet1.pdf">PDF</a>)<br />Problem set answers (<a href="1/ProblemSet1Answers.pdf">PDF</a>)</p>
+<p>Problem set 2: Sentence tree structures across languages (<a href="1/problemset2.pdf">PDF</a>)<br />Problem set 2 answers (<a href="1/problemset2answers.pdf">PDF</a>)</p>
 
-
-
+</br>
